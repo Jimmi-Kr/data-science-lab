@@ -3,7 +3,7 @@ title: NumPy and Matplotlib
 author: Karthik Thiagarajan
 ---
 
-This modules is a self-contained introduction to the libraries `NumPy` and `Matplotlib`. The module is divided into five notebooks:
+This module is a self-contained introduction to the libraries `NumPy` and `Matplotlib`. The module is divided into five notebooks:
 
 - Vectors
 - Plotting Simple Curves
